@@ -965,8 +965,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1, y: 2.2462547, z: 1}
+  m_Center: {x: 0, y: 0.62312734, z: 0}
 --- !u!23 &323713316
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1634,7 +1634,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 299.99994}
+  m_AnchoredPosition: {x: 0, y: 89726.73}
   m_SizeDelta: {x: 0, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &593665372
@@ -3660,8 +3660,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 367596734}
   m_HandleRect: {fileID: 367596733}
   m_Direction: 2
-  m_Value: 0
-  m_Size: 1
+  m_Value: -5171.5044
+  m_Size: 0.9421771
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
