@@ -6,6 +6,7 @@ TagManager:
   tags:
   - BoundObj
   - Exit
+  - Paper
   layers:
   - Default
   - TransparentFX
